@@ -17,4 +17,4 @@ public:
     virtual ~Building() {}
 };
 
-#endif // BUILDING_H     
+#endif // BUILDING_H    
