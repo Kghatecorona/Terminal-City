@@ -7,8 +7,8 @@
 class Industrial : public Building {
 public:
     char getSymbol() const override;
-    int produceGold() const;
-    const char* getName() const;
+    int produceGold() const override;
+    const char* getName() const override;
 };
 
 #endif // INDUSTRIAL_H
