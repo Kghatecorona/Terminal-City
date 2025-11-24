@@ -32,7 +32,32 @@ TerminalCity/
 └──README.md<br>
 <br>
 
+<H3>Major Features</H3>
 
+Abstract Building base class with 4 derived types<br>
+
+City<T> template class for grid-based city management<br>
+
+4 custom exception classes<br>
+
+Dedicated logging system (game.log)<br>
+
+Comprehensive statistics manager (Population, Gold, Happiness, Environment)<br>
+
+Random event generator (disasters, bonuses)<br>
+
+Save/Load system using binary file handling<br>
+
+Input validation and a clean, menu-driven interface<br>
+<br>
+
+Compilation Commands<br>
+make           # Build
+make run       # Build & run
+make clean <br>
+
+
+<br>
 Members : 
 <br>
 Kavyansh Gupta (241030392)
