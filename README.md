@@ -57,6 +57,43 @@ make run       # Build & run
 make clean <br>
 
 
+
+<H3>Gameplay Guide</H3>H3><br><br>
+Building Types<br>
+Code	Type	Cost	Effect<br>
+R	Residential	200	+500 population<br>
+I	Industrial	300	+100 gold/turn<br>
+F	Farm	150	+50 gold/turn<br>
+=	Road	100	Infrastructure<br><br>
+Main Menu<br><br>
+
+Build Infrastructure<br>
+
+Demolish Building<br>
+
+Next Turn<br>
+
+Save Game<br>
+
+Load Game<br>
+
+Show Building Costs<br>
+
+Exit<br>
+<br>
+Gameplay Highlights<br><br>
+
+8×10 interactable city grid<br>
+
+Gold / population / happiness management<br>
+
+Random seasonal events<br>
+
+Saves stored in city.dat<br>
+
+Automatic logging in game.log<br>
+
+
 <br>
 Members : 
 <br>
