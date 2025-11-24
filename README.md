@@ -32,7 +32,7 @@ TerminalCity/
 └──README.md<br>
 <br>
 
-<H3>Major Features</H3>
+<H2>Major Features</H2>
 
 Abstract Building base class with 4 derived types<br>
 
@@ -58,14 +58,14 @@ make clean <br>
 
 
 
-<H3>Gameplay Guide</H3>H3><br><br>
-Building Types<br>
+<H2>Gameplay Guide</H2><br><br>
+<H3>Building Types<br></H3>
 Code	Type	Cost	Effect<br>
 R	Residential	200	+500 population<br>
 I	Industrial	300	+100 gold/turn<br>
 F	Farm	150	+50 gold/turn<br>
 =	Road	100	Infrastructure<br><br>
-Main Menu<br><br>
+<H3>Main Menu<br><br></H3>
 
 Build Infrastructure<br>
 
@@ -81,7 +81,7 @@ Show Building Costs<br>
 
 Exit<br>
 <br>
-Gameplay Highlights<br><br>
+<H3>Gameplay Highlights<br><br></H3>
 
 8×10 interactable city grid<br>
 
